@@ -1,0 +1,23 @@
+html {
+    font-family: monospace;
+    background-color: black;
+    color: white;
+}
+a {
+    color: #0cf;
+    text-decoration: none;
+}
+a:hover {
+    color: #4df;
+}
+a:active {
+    color:#8ef;
+}
+th {
+    padding: 6px;
+    margin: 10px;
+}
+td {
+    padding: 6px;
+    margin: 10px;
+}
