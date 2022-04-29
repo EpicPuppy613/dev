@@ -21,3 +21,10 @@ td {
     padding: 6px;
     margin: 10px;
 }
+table {
+    text-align: center;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid white;
+}
