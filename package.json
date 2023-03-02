@@ -1,0 +1,19 @@
+{
+  "name": "epicpuppy.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicpuppy-dev/epicpuppy.dev.git"
+  },
+  "author": "epicpuppy.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epicpuppy-dev/epicpuppy.dev/issues"
+  },
+  "homepage": "https://github.com/epicpuppy-dev/epicpuppy.dev#readme"
+}
